@@ -17,3 +17,5 @@ public class TinySETokenizer implements Tokenizer {
 	}
 
 }
+
+// 다하고 mvn test 로 unit test 진행
